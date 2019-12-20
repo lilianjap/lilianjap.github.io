@@ -1,1 +1,17 @@
 /* Your custom css code goes here */
+
+.img__caption {
+    margin-left: 25px;
+}
+
+.about__profile-image {
+    display: flex;
+    justify-content: center;
+}
+
+.about__contact {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}

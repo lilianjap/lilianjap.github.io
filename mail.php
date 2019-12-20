@@ -11,10 +11,7 @@
     <link rel="stylesheet" href="css/style.min.css">
     <link rel="stylesheet" href="css/custom.css">
 
-    <!--[if lt IE 9]>
-      <script src="js/vendor/html5shiv.min.js"></script>
-      <script src="js/vendor/respond.min.js"></script>
-    <![endif]-->
+ 
   </head>
   <body>
 
@@ -96,7 +93,7 @@
         <div class="col-md-3">
           <div class="probootstrap-footer-widget">
             <h4 class="heading">About LJ.</h4>
-            <p>Based in Stockholm, Sweden. Currently a MSc. Student in Interactive Media Technology at KTH, Royal Institute of Technology</p>
+            <p>Based in Stockholm, Sweden. Currently working as a node js developer in Stockholm, Sweden</p>
             <p><a href="about.html">Read more...</a></p>
           </div>
         </div>
