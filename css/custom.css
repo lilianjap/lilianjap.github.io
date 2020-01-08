@@ -1,7 +1,13 @@
 /* Your custom css code goes here */
 
+.image {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
 .img__caption {
-    margin-left: 25px;
+    text-align: center;
 }
 
 .about__profile-image {
